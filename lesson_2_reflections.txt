@@ -3,6 +3,7 @@ It checks weather the repository is available or not. If any repo available it i
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Its the midpart. Before making the commit in the repository, staging area is the place to colleact the files seperately.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
