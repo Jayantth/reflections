@@ -1,8 +1,8 @@
 1.When would you want to use a remote repository rather than keeping all your work local?
-    To send the files to github portal
+         To send the files to github portal
 
 2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-    Its not possible to update the data which we modify in local or web. We just need to pull or push request to make things happen.
+        Its not possible to update the data which we modify in local or web. We just need to pull or push request to make things happen.
 
 3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
     Forks:
@@ -11,3 +11,6 @@
         It means copying the forked repositary into the local directory.
     Branches:
         Branches are the list of commit available in both local and web
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+        It can be useful in the future if any bug created in modiying the files.
