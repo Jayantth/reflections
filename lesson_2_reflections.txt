@@ -7,14 +7,26 @@ Its the midpart. Before making the commit in the repository, staging area is the
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Staging area can be used to create one commit as per logical change. According to that it's allowance is only once.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are very useful for modifying the files. It keeps history very organized so that we can easily shift from one 
+file to another.Branches are very easy to create and modify.
 
 How do the diagrams help you visualize the branch structure?
+Branch structure are very useful in understanding the parent of each files and the branch helps in knowing the order.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging the branches have many complications. Git don't know which files to add and delete. So we need to assist it to get the
+correct merging result.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Git's automatic merging:
+	Pros:It merges the maximum of files to be merged correctly
+	Cons:It will not merge the files with conflict
+Manual merge:
+	Pros:It will be accurate
+	Cons:It consumes lots of time to merge manually and its a waste of time.
